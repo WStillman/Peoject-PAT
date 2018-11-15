@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "063857b3-ff52-4e25-95a6-aa3a0ba9c1b6",
+            "Value": {
+                "id": "3c2deeb7-96e5-4820-96c7-2b402445f24a",
+                "resourcePath": "sprites\\spr_Jeep\\spr_Jeep.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "09de7e42-de2f-4683-ae84-7966d695daeb",
             "Value": {
                 "id": "c2a2504b-0a98-443c-a481-1f41a5caa70f",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "6c49cc45-0767-458c-ad45-6e9008eb557d",
+            "Value": {
+                "id": "59e2f273-21f3-4ba6-8af7-36f39d41a012",
+                "resourcePath": "sprites\\spr_APC\\spr_APC.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "763ea79c-9751-407b-8d3d-499e4d3f3597",
             "Value": {
                 "id": "f3525b66-d093-4da2-bdd8-c93341e68a2e",
@@ -143,11 +159,27 @@
             }
         },
         {
+            "Key": "becdd92c-5bf0-4071-b023-c8f6e7af2f0d",
+            "Value": {
+                "id": "6523c11e-be19-4591-96e3-265ee519ba5e",
+                "resourcePath": "sprites\\spr_Heavy_Tank\\spr_Heavy_Tank.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c898acf9-61e8-46e2-a573-c25e3a2218e9",
             "Value": {
                 "id": "a6678c92-b946-4c31-918e-889e27c3bdb1",
                 "resourcePath": "views\\c898acf9-61e8-46e2-a573-c25e3a2218e9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c95fc5e5-5257-4aaa-a563-b838ee5e61d9",
+            "Value": {
+                "id": "05e11e71-49e7-4ea6-9344-4661d721c9e0",
+                "resourcePath": "sprites\\spr_Light_Tank\\spr_Light_Tank.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,11 +199,27 @@
             }
         },
         {
+            "Key": "d45a16a1-ee6f-4db8-baf2-c699fadb405f",
+            "Value": {
+                "id": "48e6603d-512e-40ad-8f80-229dfbeaac9d",
+                "resourcePath": "sprites\\spr_riffleman\\spr_riffleman.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d4cf786a-516d-4caa-b2c6-8d20a70c4f22",
             "Value": {
                 "id": "05f902e9-fbd8-489f-ad81-ac2b50861264",
                 "resourcePath": "views\\d4cf786a-516d-4caa-b2c6-8d20a70c4f22.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8ac0eb2-6558-4057-b3b0-5ff58ae7f208",
+            "Value": {
+                "id": "ef51917f-76dd-4250-9004-f547bb01870b",
+                "resourcePath": "sprites\\spr_Heavy_Infantry\\spr_Heavy_Infantry.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

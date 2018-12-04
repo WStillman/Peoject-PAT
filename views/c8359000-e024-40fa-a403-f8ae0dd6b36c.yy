@@ -7,7 +7,7 @@
         "2dfc92c3-e0a1-4f29-ba1d-11bfbc9e07b8"
     ],
     "filterType": "GMObject",
-    "folderName": "Test Items",
+    "folderName": "Test Objects",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
